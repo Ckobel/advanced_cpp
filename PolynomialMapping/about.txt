@@ -1,0 +1,3 @@
+better OOP design of polynomial class. uses hashmap instead of raw arrays.
+
+allows all basic operations * / + -

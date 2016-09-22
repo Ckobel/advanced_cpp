@@ -1,0 +1,7 @@
+bounds checked 1 or 2d templated array with custom definable bounds.
+
+ex 
+
+a = new SafeArray(2,4);
+
+a[2] a[3] a[4] are all valid indicies.

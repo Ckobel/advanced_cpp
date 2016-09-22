@@ -1,0 +1,3 @@
+old implementation of method of performing operations on 2 input polynomials.
+
+only works for 2 polynomials, was reimplemented using a map
